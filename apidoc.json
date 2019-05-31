@@ -1,0 +1,8 @@
+{
+  "name": "Notification-service API documentation",
+  "version": "1.0.0",
+  "description": "Notification-service API documentation",
+  "template": {
+      "forceLanguage": "en"
+  }
+}
